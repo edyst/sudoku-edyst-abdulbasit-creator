@@ -1,1 +1,2 @@
-# sudoku
+# sudoku Game
+by abdul basit
